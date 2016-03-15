@@ -1,0 +1,11 @@
+#panelEnfermedades
+{   
+    margin-top:2em;   
+}
+
+#panelEnfermedades .panel-body
+{
+    overflow-y:scroll;
+    height:20em;
+  
+}
