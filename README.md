@@ -1,2 +1,2 @@
 # arcadia_web_site
-Web site made as a final degree project (still working in it)
+Example of web site made as my final vocational training project (still working in it).
